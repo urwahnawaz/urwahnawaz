@@ -1,4 +1,7 @@
 ### Hi there 👋
+- [PhD candidate](https://researchers.adelaide.edu.au/profile/urwah.nawaz) at University of Adelaide and UNSW
+- Investigating the role of genes implicated in neurodevelopmental disorders using publicly available human brain gene expression data
+   
 
 <!--
 **unawaz1996/unawaz1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
