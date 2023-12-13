@@ -1,5 +1,6 @@
 ### My name is Urwah, pronounced Arwa 🐐
 - 👩🏽‍🔬 PhD Candidate in Neurogenetics at the University of Adelaide and UNSW. View my [Google Scholar](https://scholar.google.com/citations?user=KpnhwkoAAAAJ&hl=en).
+  - CSHL + JXTX Genome Informatics Scholar
 - 🧠 Making publicly available human brain transcriptomic datasets more accessible with [BITHub](https://voineagulabunsw.github.io/BITHub/).
 - 🎨 Obsessed with data visualisation. Check out my work on [Behance](https://www.behance.net/urwah).
 - 🔨 Building a better sleep experience for people with disabilities with Vertere.
